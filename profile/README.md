@@ -13,11 +13,3 @@ At Aniza Spa, our commitment is to provide you with an exceptional wellness expe
 
 ### Discover the Secret of Latin Beauty
 At Aniza Spa, we believe that true beauty resides in inner harmony and self-confidence. Our treatments and therapists will help unlock that inner beauty and leave you feeling confident and radiant.
-
-### Contribution
-This repository is open to contributions from the community. If you have ideas to enhance Aniza Spa or want to collaborate on the development of new services and treatments, feel free to join us!
-
-### Contact
-Ready to experience harmony and beauty at Aniza Spa? Contact us today to book your appointment! Your journey to relaxation and confidence begins here.
-
-We look forward to seeing you soon at Aniza Spa!
